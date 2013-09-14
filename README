@@ -1,0 +1,2 @@
+Code for learning Perlin Noise.
+This code draws an ellipse on the screen. This ellipse moves depending on a random Perlin Noise.
